@@ -38,3 +38,4 @@ function animalSound(animal) {
 }
 animalSound(dog1);
 animalSound(cat1);
+// intersection types

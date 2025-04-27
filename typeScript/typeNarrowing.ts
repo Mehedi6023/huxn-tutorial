@@ -36,3 +36,5 @@ function animalSound(animal: Dog | Cat): void {
 }
 animalSound(dog1)
 animalSound(cat1)
+
+// intersection types
