@@ -1,0 +1,10 @@
+{
+  "name": "ovi",
+  "age": 40,
+  "dob": "33-45-67",
+  "hobbies": ["playing", "reading", 69],
+  "address": {
+    "city": "Dhaka",
+    "post": 9440
+  }
+}
